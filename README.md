@@ -9,3 +9,13 @@ Serf+HAProxyで作るAutomatic Load Balancer
 * http://blog.glidenote.com/blog/2013/10/30/serf-haproxy/
 * http://deeeet.com/writing/2014/04/08/docker-serf-haproxy/
 * http://deeeet.com/writing/2014/04/01/serf-haproxy/
+
+###更新前イメージの作り方
+
+```
+docker run -itd -rm --name temp yujilow/node /bin/bash
+docker commit temp yujilow/node_old
+docker stop temp
+docker build -t yujilow/node .
+docker stop new
+```
