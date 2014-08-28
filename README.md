@@ -2,6 +2,9 @@
 * HAProxyを使ってロードバランシング
 * スクリプトのオプションでカナリアリリース
 
+Dockerfileの文法
+* http://www.atmarkit.co.jp/ait/articles/1407/08/news031.html#032
+
 HAProxyを試す
 * http://momijiame.tumblr.com/post/71727083520/centos-6-5-haproxy
 
