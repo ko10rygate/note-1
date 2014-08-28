@@ -7,4 +7,5 @@ HAProxyを試す
 
 Serf+HAProxyで作るAutomatic Load Balancer
 * http://blog.glidenote.com/blog/2013/10/30/serf-haproxy/
-
+* http://deeeet.com/writing/2014/04/08/docker-serf-haproxy/
+* http://deeeet.com/writing/2014/04/01/serf-haproxy/
