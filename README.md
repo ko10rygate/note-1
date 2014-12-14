@@ -10,9 +10,18 @@ Name : yujilow (ゆーじ)
 
 ###Blog
 * [Yujilow's note](http://yujilow1220.github.io/blog)
-* ちょっと具体的なプロフィールは[こちら](http://yujilow1220.github.io/about/)をどうぞ。
 
 ###Mail
-* adgjmbehkncfilo1234 atmark gmail.com
+* info atmark yujilow.net
 
+###Who are you?
 
+大学生。大学院に進学予定です。  
+プログラムが好きです。  
+サーバ仮想化も好きです。  
+ていうか、サーバが好きです。  
+コミュ症なので、何とかしたいと考えています。  
+
+###Keywords
+
+nodejs,play1.2.5,android,kvm,virtualization,storage,zfs
